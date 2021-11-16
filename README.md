@@ -4,5 +4,5 @@ These YAML files are can be used for deployment, maintenance and monitoring of p
 
 ## Maintanance
 
-## Monitoring
+## Checking metrics
 
