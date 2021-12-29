@@ -318,7 +318,9 @@ configuration directory at /etc/letsencrypt. You should make a secure backup of 
 {% endnote %}
 
 {% note tip %}
+
 Начиная с версии **Apache** 2.4.8 используйте `fullchain.pem` в качестве сертификата для директивы `SSLCertificateFile`. Использование `cert.pem` для этой цели не рекомендовано.
+
 {% endnote %}
 
 ## Настройка доступа к веб-сайту по протоколу **HTTPS** {#configure-access-https-apache}.
