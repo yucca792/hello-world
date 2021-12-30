@@ -233,7 +233,7 @@ $ nslookup www.example.com <сервер имен регистратора до�
 
 ## Создайте **SSL** cертификат Let’s Encrypt для **Apache** {#create-ssl-le-http-apache}
 
-### Предварительно установите ACME-клиент `Certbot` от [Electronic Frontier Foundation](#https://certbot.eff.org/).
+### Предварительно установите ACME-клиент `Certbot` от [Electronic Frontier Foundation](https://certbot.eff.org/).
 
 1. Установите `Certbot` из **SNAP**:
 ```bash
